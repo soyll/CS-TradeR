@@ -7,8 +7,8 @@ r = requests.get("https://tradeback.io/")
 
 __session = r.cookies.get_dict()
 __steam = {
-  "session": "",
-  "remember_web_": ""
+  "session": '',
+  "remember_web_": ''
 }
 __selenium = {
   'name': '',
@@ -16,7 +16,7 @@ __selenium = {
 }
 
 __cstrade = {
-  "PHPSESSID": ""
+  "PHPSESSID": ''
 }
 
 def get_cookies():

@@ -1,5 +1,5 @@
-# RandoMorph
-The **RandoMorph** is a simple Python library designed for generating random data of various types, including strings, names, addresses, numbers, and more. This library is ideal for creating test data, mock-ups, or demonstration samples.
+# CS TradeR
+CS Trade: Effortless Skin Trading with TradeBack.io. Trade skins seamlessly using CS Trade powered by TradeBack.io. Buy, sell, and exchange CS:GO skins effortlessly
 
 ## Table of Contents
 * [Requirements](#requirements)

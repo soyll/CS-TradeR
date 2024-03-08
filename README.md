@@ -4,7 +4,6 @@ CS Trade: Effortless Skin Trading with TradeBack.io. Trade skins seamlessly usin
 ## Table of Contents
 * [Requirements](#requirements)
 * [Getting Started](#getting-started)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Setup](#setup)
   * [Customize filters.json](#customize-filters-as-needed)
@@ -16,38 +15,6 @@ CS Trade: Effortless Skin Trading with TradeBack.io. Trade skins seamlessly usin
 
 
 ## Getting Started
-
-### Installation
-#### Install using pypi
-```bash
-pip install randomorph
-```
-or
-* Clone the GitHub repository:
-	```bash
-	git clone https://github.com/soyll/RandoMorph.git	
-	```
-* Navigate to directory:
-	```bash
-	cd RandoMorph	
-	```
-* (Recommended) Create a virtual environment to manage Python packages for your project:
-	```bash
-	python3 -m venv venv
-	```
-* Activate the virtual enviropment
-	* On windows:
-		```bash
-		.\venv\Scripts\activate
-		```  
-	* On linux or macOs:
-		```
-		source venv/bin/activate
-		```
-* Install the required Python packages from  `requirements.txt`:
-	```bash
-	pip install -r requirments.txt
-	```
 ## Usage
 ```python
 python controller.py
